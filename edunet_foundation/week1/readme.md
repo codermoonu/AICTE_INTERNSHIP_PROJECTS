@@ -132,4 +132,8 @@ O2         | R2 Score: 0.85 | MSE: 1.92
 * Dataset from RMS Water Monitoring Project
 
 ---
-
+## Internship Details
+* Internship Type: AICTE Virtual Internship - Edunet Foundation
+* Sponsor: Shell
+* Duration: June 2025 (1 month)
+* Focus Area: Machine Learning in Environmental Monitoring
