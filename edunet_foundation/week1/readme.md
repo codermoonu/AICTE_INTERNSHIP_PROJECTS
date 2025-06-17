@@ -126,11 +126,6 @@ O2         | R2 Score: 0.85 | MSE: 1.92
 
 ---
 
-## 📢 Acknowledgements
-
-* Water quality parameter references from WHO & EPA guidelines
-* Dataset from RMS Water Monitoring Project
-
 ---
 ## Internship Details
 * Internship Type: AICTE Virtual Internship - Edunet Foundation
