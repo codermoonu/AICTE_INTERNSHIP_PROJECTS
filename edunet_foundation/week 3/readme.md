@@ -116,8 +116,6 @@ This project proves that machine learning, particularly ensemble techniques like
 3. Open the notebook:
    ```bash
    jupyter notebook Water_Quality_Prediction.ipynb
-## Model link:
-https://drive.google.com/file/d/18RJzu35vyuMgpcAE590u1IaDvHY3-SWq/view?usp=sharing
 
 ## Internship Details
 Internship Type: AICTE Virtual Internship - Edunet Foundation
